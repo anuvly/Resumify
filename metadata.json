@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "Upload your resume in PDF format to get an AI-powered analysis of your skills, a resume score, and actionable suggestions for improvement.",
+  "requestFramePermissions": []
+}
